@@ -52,7 +52,7 @@ const server = app.listen(PORT,()=>{
 
 const io = new Server(server,{
     cors:{
-        origin:['https://privateghost.onrender.com','http://127.0.0.1:5500']
+        origin:['https://privateghost.ccbp.tech','http://127.0.0.1:5500']
     }
 });
 
