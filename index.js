@@ -27,7 +27,7 @@ function LogLiveCount(count){
 }
 
 function LogMessage(message){
-    console.log("Message:",message);
+    //console.log("Message:",message);
 }
 
 
